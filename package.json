@@ -1,0 +1,17 @@
+{
+  "name": "braille_starfield",
+  "version": "0.0.1",
+  "description": "a starfield in your terminal",
+  "main": "app.js",
+  "dependencies": {
+    "bresenham": "^0.0.3",
+    "drawille": "^1.0.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bttf",
+  "license": "ISC"
+}
