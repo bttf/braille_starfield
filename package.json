@@ -4,6 +4,7 @@
   "description": "a starfield in your terminal",
   "main": "app.js",
   "dependencies": {
+    "blessed": "0.0.37",
     "bresenham": "^0.0.3",
     "drawille": "^1.0.0"
   },
